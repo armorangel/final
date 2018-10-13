@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#wrapper {
+	width: 1000px;
+	height: 1000px;
+	margin: auto;
+}
+
+#header {
+	width: 100%;
+	height: 20%;
+	background-color: powderblue;
+}
+
+header ul {
+	list-style: none;
+}
+
+header ul li {
+	display: inline;
+}
+
+#content {
+	width: 100%;
+	height: 20%;
+	background-color: orange;
+}
+
+#footer {
+	width: 100%;
+	height: 20%;
+	background-color: pink;
+}
