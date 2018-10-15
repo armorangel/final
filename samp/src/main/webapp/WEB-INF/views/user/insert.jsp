@@ -13,5 +13,7 @@
 	<form method="post" action="<c:url value='/'/>/insert">
 		
 	</form>
+	
+	<!-- 회원가입 -->
 </body>
 </html>

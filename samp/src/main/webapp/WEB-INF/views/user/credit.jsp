@@ -8,5 +8,9 @@
 </head>
 <body>
 	<h1>home_home_home_</h1>
+	<!-- 
+		결제 화면
+	
+	 -->
 </body>
 </html>

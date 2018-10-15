@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>home_home_home_</h1>
+	
+	<!-- 마이페이지 -->
 </body>
 </html>

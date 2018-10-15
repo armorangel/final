@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>home_home_home_</h1>
+	
+	<!-- 회원정보 수정 -->
 </body>
 </html>

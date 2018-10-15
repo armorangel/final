@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>home_home_home_</h1>
+	
+	<!-- 지원서 작성 완료 -->
 </body>
 </html>
