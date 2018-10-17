@@ -6,20 +6,20 @@
 }
 
 #wrapper {
-	width: 1000px;
-	height: 1000px;
+	width: 1200px;
+	height: 1000px; 
 	margin: auto;
 }
 
 #header {
 	width: 100%;
-	height: 20%;
-	background-color: powderblue;
+	height: 10%;
 }
 
 header ul {
 	list-style: none;
 }
+
 
 header ul li {
 	display: inline;
@@ -27,12 +27,28 @@ header ul li {
 
 #content {
 	width: 100%;
-	height: 20%;
-	background-color: orange;
+	height: 70%;
 }
 
 #footer {
 	width: 100%;
 	height: 20%;
-	background-color: pink;
+}
+
+.h_button{
+	margin: 5px;
+	padding: 15px;
+	background-color: #ff8080;
+	border: 0px;	
+	float: right;
+}
+
+#count{
+	width: 40%;
+	height: 40%;
+	border: 1px solid black;
+}
+.con{
+	height: 20%;
+	border: 1px solid black;
 }
